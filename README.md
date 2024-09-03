@@ -9,7 +9,7 @@
 - Likes to collect stuff
 - Like achievements
 
-##<p>
+<p>
  I am a versatile mid-level developer who excels at building dynamic websites 🌐 and experimenting with design 🎨. While my design skills are still growing, I’m passionate about exploring new tech stacks 💻 and leveraging them to bring creative and impactful projects to life 🛠️.
 </p>
 
