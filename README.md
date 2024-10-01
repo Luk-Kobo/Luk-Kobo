@@ -13,6 +13,16 @@
  I am a versatile mid-level developer who excels at building dynamic websites 🌐 and experimenting with design 🎨. While my design skills are still growing, I’m passionate about exploring new tech stacks 💻 and leveraging them to bring creative and impactful projects to life 🛠️.
 </p>
 
+## Refactoring & Legacy React Expertise
+<p>
+  Proficient in refactoring complex codebases to enhance performance and maintainability. Skilled in modernizing legacy React applications by integrating contemporary patterns and best practices, ensuring clean, efficient, and scalable code.
+</p>
+
+## Reverse Engineering Skills
+<p>
+  Enjoy dissecting software to uncover how it works. I dive into legacy systems to analyze functionality, spot vulnerabilities, and gather insights for modernization. Whether it’s using cool tools or just good old detective work, I love the challenge of figuring things out!
+</p>
+
 ## 💻 Tech Stack
 
 <div style="display: flex; flex-wrap: wrap; row-gap: 10px">
